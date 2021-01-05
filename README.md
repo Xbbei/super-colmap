@@ -11,12 +11,14 @@ wget https://github.com/magicleap/SuperGluePretrainedNetwork/blob/master/models/
 ```
 
 ## Dependencies:
+--------
 - Python 3.7+
 - PyTorch and TorchVision
 - OpenCV
 - imageio and imageio-ffmpeg
 
 ## Run:
+--------
 ```
 python super_colmap.py \
       --projpath projpath \
