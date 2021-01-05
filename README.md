@@ -4,7 +4,7 @@ SuperPoint replace the sift in colmap framework
 ## Get Started:
 -------
 - install the colmap: https://colmap.github.io/install.html
-- clone the super colmap: git clone https://github.com/Xbbei/super-colmap.git*
+- clone the super colmap: git clone https://github.com/Xbbei/super-colmap.git
 - Download [SuperPoint](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w9/DeTone_SuperPoint_Self-Supervised_Interest_CVPR_2018_paper.pdf) to ./
 ```
 wget https://github.com/magicleap/SuperGluePretrainedNetwork/blob/master/models/weights/superpoint_v1.pth?raw=true -O superpoint_v1.pth 
